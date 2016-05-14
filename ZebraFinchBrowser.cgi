@@ -3,7 +3,7 @@
 use strict;
 use warnings;
 use CGI qw/:standard/;
-use CGI::Carp qw/ fatalsToBrowser warningsToBrowser/;
+#use CGI::Carp qw/ fatalsToBrowser warningsToBrowser/;
 use Bio::Graphics;
 use Bio::SeqFeature::Generic;
 
